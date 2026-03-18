@@ -57,6 +57,3 @@ src/
     mock-data.ts                # Sample hospitals, runs, and metrics
 ```
 
-## License
-
-MIT
